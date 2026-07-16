@@ -54,5 +54,8 @@ Having recently graduated from Adhiyamaan Arts and Science College for Women, I 
 ---
 
 ## ⚡ My GitHub Analytics
-![Snehalavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehalavanya11-stack&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehalavanya11-stack&layout=compact&theme=radial)
+## ⚡ My GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehalavanya11-stack&show_icons=true&theme=radial" alt="Sneha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalavanya11-stack&layout=compact&theme=radial" alt="Top Languages" />
+</p>
