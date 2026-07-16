@@ -20,6 +20,7 @@ Having recently graduated from Adhiyamaan Arts and Science College for Women, I 
 ## 🚀 Featured Projects
 
 ### 🏥 [Patient Healthcare & Waiting List Analysis Dashboard](https://github.com/snehalavanya11-stack)
+![Patient Healthcare Dashboard](Dashboard.png)
 * **What it does:** Developed an interactive healthcare dashboard in Power BI designed to analyze patient waiting lists, tracking key metrics across specialty departments, age profiles, and time bands to improve hospital operational efficiency.
 * **Tools & Concepts Used:** Power BI (Power Query, DAX modeling), Advanced Chart Configurations, Data Mapping, and Multi-page Report Navigation.
 
