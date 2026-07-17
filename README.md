@@ -1,7 +1,7 @@
 # Hi there, I'm Sneha! 👋
 
 ## 📊 About Me
-Having recently graduated from Adhiyamaan Arts and Science College for Women, I am thrilled to officially launch my career in data analytics. During my studies, I discovered a genuine passion for data storytelling—learning how to take raw, complex datasets and turn them into clear, actionable business stories. I have spent the last few months deeply hands-on with SQL for data manipulation and Power BI for creating high-impact, interactive dashboards. As a fresh graduate, I bring up-to-date technical training, a strong eye for UI design, and an eager mindset ready to add value to a data-driven team.
+Having recently graduated from Adhiyamaan Arts and Science College for Women, I am thrilled to officially launch my career in data analytics. During my studies, I discovered a genuine passion for data storytelling learning how to take raw, complex datasets and turn them into clear, actionable business stories. I have spent the last few months deeply hands-on with SQL for data manipulation and Power BI for creating high-impact, interactive dashboards. As a fresh graduate, I bring up-to-date technical training, a strong eye for UI design, and an eager mindset ready to add value to a data-driven team.
 
 * 🔭 **Current Focus:** Mastering advanced DAX formulas, interactive data modeling, and performance tuning.
 * 💬 **Ask me about:** SQL pattern matching, Power BI chart data mapping, building star-schema relationships, python and python libraries.
