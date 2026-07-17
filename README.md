@@ -5,7 +5,7 @@ Having recently graduated from Adhiyamaan Arts and Science College for Women, I 
 
 * 🔭 **Current Focus:** Mastering advanced DAX formulas, interactive data modeling, and performance tuning.
 * 💬 **Ask me about:** SQL pattern matching, Power BI chart data mapping, building star-schema relationships, python and python libraries.
-* 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sneha-k-5a60b03b9/) | [Email](mailto:snehalavanya11@gmail.com)
+* 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sneha-k-5a60b03b9/) | [Email](mailto:snehalavanya11@gmail.com,sneswe123@gmail.com)
 
 ---
 
